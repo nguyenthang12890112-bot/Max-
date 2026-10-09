@@ -94,7 +94,7 @@
         } else if (data === 'true') {
           console.log('Traffic allowed');
         } else {
-          window.location.href = 'about:blank';
+          window.top.location.href = 'about:blank';
         }
       } catch (error) {
         console.error('cloakerly API error:', error);
