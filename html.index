@@ -44,7 +44,7 @@
 
   <div class="banner-container" id="imageBtn">
     <!-- Thay URL hình ảnh của bạn vào thuộc tính src dưới đây -->
-    <img src="https://via.placeholder.com/600x200" alt="Banner Click" id="bannerImg" />
+    <img src="https://i.postimg.cc/FRXSRLvR/720x1280-9.jpg" alt="Banner Click" id="bannerImg" />
   </div>
 
   <script>
